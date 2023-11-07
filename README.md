@@ -2,6 +2,7 @@
 
 [js.zip](https://github.com/pepyta/frontend/raw/main/js.zip)
 [ts.zip](https://github.com/pepyta/frontend/raw/main/ts.zip)
+[gyakorlas.zip](https://github.com/pepyta/frontend/raw/main/gyakorlas.zip)
 
 ### index.html
 
