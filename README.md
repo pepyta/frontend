@@ -1,5 +1,8 @@
 # Böngészős Javascript
 
+[js.zip](https://github.com/pepyta/frontend/raw/main/js.zip)
+[ts.zip](https://github.com/pepyta/frontend/raw/main/ts.zip)
+
 ### index.html
 
 ```html
