@@ -53,11 +53,11 @@ alert(kategorizal(homerseklet));
 <body> 
     <div id='parent'> 
         <p><strong>Original String: 
-            </strong>{{ str }} 
+            </strong>"{{ str }}" 
         </p> 
   
         <p><strong>Reverse String : 
-            </strong>{{ str | reverse }} 
+            </strong>"{{ str | reverse }}"
         </p> 
     </div> 
       
@@ -103,11 +103,11 @@ const parent = new Vue({
 <body> 
     <div id='parent'> 
         <p><strong>Original String: 
-            </strong>{{ str }} 
+            </strong>"{{ str }}"
         </p> 
   
         <p><strong>Counter: 
-            </strong>{{ str | counter }} 
+            </strong>"{{ str | counter }}"
         </p> 
     </div> 
       
